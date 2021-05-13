@@ -1,8 +1,13 @@
 # SplitViewControllerWithTabBarExample
+
+Simple demo image review
+![alt tag](https://github.com/DauBv/SplitViewController/blob/main/screenShort/IMG_2432.PNG)
+![alt tag](https://github.com/DauBv/SplitViewController/blob/main/screenShort/IMG_2433.PNG)
+
 This repository is to show an example of using a tab bar controller as the master controller inside of a split view controller.
 
 ## License
-    Copyright 2016 Gligor Kotushevski.
+    Copyright 2021.
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
